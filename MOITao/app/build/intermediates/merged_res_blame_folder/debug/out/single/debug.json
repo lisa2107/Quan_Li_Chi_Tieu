@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_edit.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\drawable\\input.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_edit.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_action_search.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_abc.jpg.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-hdpi\\abc.jpg"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_xem_full_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\dialog_xem_full_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_sp_loai_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\custom_sp_loai_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_edit.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_add.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_add.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_clear.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\custom_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_delete.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_edit.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_sp_don_vi_tien.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\custom_sp_don_vi_tien.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_clear.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_clear.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_add.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_delete.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_delete.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hom_nay.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\fragment_hom_nay.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\fragment_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boxshadow.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\drawable\\boxshadow.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_add.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_search.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_them_loai_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\dialog_them_loai_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_clear.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_delete.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_search.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_delete.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_clear.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_clear.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_edit.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_edit.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_thang.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\fragment_thang.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_edit.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_loai_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\fragment_loai_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc.jpg.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\drawable\\abc.jpg"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_add.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_add.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_clear.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_clear.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_thong_ke.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\fragment_thong_ke.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_delete.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_add.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_add.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_khoan_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\fragment_khoan_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_edit_loai_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\dialog_edit_loai_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_nam.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\fragment_nam.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_edit_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\dialog_edit_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_them_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\dialog_them_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_delete.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_sp.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\custom_sp.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_delete.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_edit.png.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_loai_chi.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\src\\main\\res\\layout\\custom_loai_chi.xml"
+    },
+    {
+        "merged": "D:\\Appquanlychitieu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_action_search.xml.flat",
+        "source": "D:\\Appquanlychitieu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_search.xml"
+    }
+]
